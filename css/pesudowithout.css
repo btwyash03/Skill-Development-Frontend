@@ -1,0 +1,11 @@
+div:hover{
+    background-color: rgb(69, 20, 20);
+    color: yellow;
+}
+input:focus{
+    background-color: violet;
+    color: purple;
+}
+p:active{
+    color: darkblue;
+}

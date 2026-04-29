@@ -1,0 +1,21 @@
+div {
+    background-color: rgb(198, 20, 62);
+    color: rgb(77, 77, 142);
+    padding: 50px;
+    text-align: center;
+}
+
+div:hover {
+    background-color: black;
+    color: rgb(141, 23, 141);
+    margin: 50px;
+}
+
+input:focus {
+    background-color: black;
+    color: rgb(157, 53, 173);
+}
+
+p:active {
+    
+}

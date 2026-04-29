@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="C:\Users\Aravind\yash.css">
+</head>
+<body>
+    <p>HI</p>
+    <div>
+        <p>HELLO</p>
+        <p>GOOD MORNING</p>
+    </div>
+    <style>
+        div p
+        {
+            background-color: darkviolet;
+            font-size: xx-large;
+        }
+    </style>
+
+</body>
+</html>
